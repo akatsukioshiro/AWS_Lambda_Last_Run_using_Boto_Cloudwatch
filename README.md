@@ -11,3 +11,7 @@ Idea: Well, this helps to find the unused Lambda Functions. How ? - By getting t
 # Method 2 - example_Method_2.py
 * This also has a delay, but is way more faster and efficient compared to previous method.
 * This will defenitely yield result in 1-3 tries.
+
+# Method 3 - sample8.py
+* This is more customized to meet certain requirement but displays full potential of all possibilities available at our disposal.
+* This can efficiently do its work with no issues.
